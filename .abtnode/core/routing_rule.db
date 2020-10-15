@@ -1,0 +1,2 @@
+{"domain":"","rules":[{"from":{"pathPrefix":"/admin/"},"to":{"port":8089,"did":"zNKm95W8mn7Gdt21sveu3RnMWL1Q4GoMZXuQ","type":"daemon"},"isProtected":true,"id":"e4aac176-4ccd-443b-b0a6-65006e1852f1"}],"_id":"BARaOF5rNqJe1VAt","createdAt":{"$$date":1602748953068},"updatedAt":{"$$date":1602748953068}}
+{"domain":"*","rules":[],"_id":"OTNSFAUMnuFyGttL","createdAt":{"$$date":1602748953162},"updatedAt":{"$$date":1602748953162}}
