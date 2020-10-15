@@ -8,3 +8,5 @@
 {"$$deleted":true,"_id":"iXfFnx70s3Ch9gg3"}
 {"token":"fa5a624a","status":"created","_id":"oWWR2YdctXav0JUF","createdAt":{"$$date":1602749104655},"updatedAt":{"$$date":1602749104655}}
 {"token":"fa5a624a","status":"created","_id":"oWWR2YdctXav0JUF","createdAt":{"$$date":1602749104655},"updatedAt":{"$$date":1602749104690},"currentStep":0,"sessionDid":"z1QLrUvBv1Ex9gG6Q4sSFSVGcBxadaTuHi2","challenge":"BB49581A061B7F789A9E89DE75C2413F","extraParams":{"x-real-port":""}}
+{"token":"b55793c9","status":"created","_id":"5iauywD338Geztgt","createdAt":{"$$date":1602749221853},"updatedAt":{"$$date":1602749221853}}
+{"token":"b55793c9","status":"created","_id":"5iauywD338Geztgt","createdAt":{"$$date":1602749221853},"updatedAt":{"$$date":1602749221859},"currentStep":0,"sessionDid":"z1QLrUvBv1Ex9gG6Q4sSFSVGcBxadaTuHi2","challenge":"46DEBC219930CB498A688AF458570BD7","extraParams":{"x-real-port":""}}
