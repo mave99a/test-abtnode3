@@ -1,7 +1,7 @@
 node:
   name: 'ABT Node [mao]'
   description: ABT Node on 10.0.1.172
-  version: 1.0.22
+  version: 1.0.16
   sk: >-
     0x7f11dee70873d67f96700c6391d25a05771ece9a918ec3cf0f12e62e7ef6cbae9c6268c19231c563b09c7f1287748bcd1173bf70a6068de5a80f1d495bd8bba1
   pk: '0x9c6268c19231c563b09c7f1287748bcd1173bf70a6068de5a80f1d495bd8bba1'
@@ -17,14 +17,7 @@ node:
     provider: nginx
     adminPath: /admin/
     headers:
-      X-Powered-By: '"ABT Node/1.0.22"'
-    httpPort: 80
-    httpsPort: 443
-  mode: production
-  runtimeConfig:
-    daemonMaxMemoryLimit: 300
-    proxyMaxMemoryLimit: !<tag:yaml.org,2002:js/undefined> ''
-    blockletMaxMemoryLimit: 300
+      X-Powered-By: '"ABT Node/1.0.16"'
 blocklet:
   port: 8089
   registry: 'https://blocklet.arcblock.io'

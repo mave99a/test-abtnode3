@@ -4,7 +4,5 @@
 {"token":"715c29db","status":"created","_id":"KTgMRuNmcSj07kuX","createdAt":{"$$date":1602834732938},"updatedAt":{"$$date":1602834732966},"currentStep":0,"sessionDid":"z1QLrUvBv1Ex9gG6Q4sSFSVGcBxadaTuHi2","challenge":"9E208EA2F2FB126F8E8F72649FA5E6DF","extraParams":{"x-real-port":""}}
 {"token":"489bc52f","status":"created","_id":"kCdyOsfhv0a8NH68","createdAt":{"$$date":1602837213005},"updatedAt":{"$$date":1602837213029},"currentStep":0,"challenge":"0832698364D6C9FFC7246493B198C5A4","extraParams":{"x-real-port":""}}
 {"token":"f64c1ca3","status":"created","_id":"YYGng6vcJumQUICz","createdAt":{"$$date":1602951139168},"updatedAt":{"$$date":1602951139189},"currentStep":0,"challenge":"F64A4D60C41E13E8ACCA99539E473552","extraParams":{"x-real-port":""}}
-{"token":"3cf6f313","status":"created","_id":"5bWTAkRQ0yvPPbI9","createdAt":{"$$date":1603062418226},"updatedAt":{"$$date":1603062418226}}
 {"token":"3cf6f313","status":"created","_id":"5bWTAkRQ0yvPPbI9","createdAt":{"$$date":1603062418226},"updatedAt":{"$$date":1603062418242},"currentStep":0,"challenge":"94690AB68A8341A97C62EDE5687B07A9","extraParams":{"x-real-port":""}}
-{"token":"221f7cd1","status":"created","_id":"ZWry9ZxJai4BZGKl","createdAt":{"$$date":1603062418255},"updatedAt":{"$$date":1603062418255}}
 {"token":"221f7cd1","status":"created","_id":"ZWry9ZxJai4BZGKl","createdAt":{"$$date":1603062418255},"updatedAt":{"$$date":1603062418269},"currentStep":0,"challenge":"F1819E57E02D319670683D7C4A3C9FDF","extraParams":{"x-real-port":""}}
